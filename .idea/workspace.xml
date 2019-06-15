@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a39cd5a3-0550-45f5-97a3-687ca97f9554" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/CwiczeniaInternet$Imie.ic" NAME="Imie Coverage Results" MODIFIED="1547839618677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Metody.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CwiczeniaInternet" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section8/MobilePhoneExample/MobilePhone.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="60" column="65" selection-start-line="60" selection-start-column="65" selection-end-line="60" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section8/autoboxingExample/Bank.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section8/autoboxingExample/Customer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="e#220#221#0" expanded="true" />
+                <element signature="e#247#248#0" expanded="true" />
+                <element signature="e#283#284#0" expanded="true" />
+                <element signature="e#315#316#0" expanded="true" />
+                <element signature="e#355#356#0" expanded="true" />
+                <element signature="e#387#388#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section8/MobilePhoneExample/Contacts.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section1_2_3/EqualSumChecker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section1_2_3/LeapYearCalculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section1_2_3/MegaBytesConvertor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section1_2_3/PrimeNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section1_2_3/SwitchDay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section1_2_3/TheLargerPrime.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="REBASE" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+    <option name="AUTO_COMMIT_ON_CHERRY_PICK" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Wlasne/section6/BankAccount.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/section6/VipCustomer.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/section1_2_3/TheLargerPrime.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/section6/Wall.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/section6/Point.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/section6/Floor.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/section6/Carpet.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/section6/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/section6/CarpetStore/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/section6/carpetStore/Carpet.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/section6/carpetStore/Floor.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/section6/carpetStore/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/section6/carpetStore/Main.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/section6/ComplexNumber.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/section6/Main.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/section6/inheritanceExample/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/section6/inheritanceExample/Car.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/section6/cylinder/Cylinder.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/section6/cylinder/Circle.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/section6/cylinder/Main.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/section6/poolArea/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/section6/poolArea/Cuboid.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/section6/poolArea/Main.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/section7/Printer.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/section7/Encapsulation/Printer.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/section7/Encapsulation/AA/Printer.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/section7/Main.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/section7/EncapsulationExample/Printerr.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/section7/EncapsulationExample/Printer.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/section7/EncapsulationExample/Main.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/section7/EncapsulationExample/encapsulation/Printer.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/section7/encapsulation/Printer.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/section7/encapsulation/Main.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/section7/polymorphism/Ford.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/section7/polymorphism/Car.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/BurgerShop/MeatRepository.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/BurgerShop/BreadRepository.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/BurgerShop/BaseBurger.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/BurgerShop/Hamburger.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/section8/SortList.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/section8/ArrayListExample/Main.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/section8/ArrayListExample/MobilePhone.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/section8/ArrayListExample/Contacts.java" />
+        <option value="$PROJECT_DIR$/src/MobilePhoneExample/Main.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/section8/MobilePhoneExample/Main.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/section8/MobilePhoneExample/MobilePhone.java" />
+        <option value="$PROJECT_DIR$/src/Wlasne/section8/MobilePhoneExample/Contacts.java" />
+        <option value="$PROJECT_DIR$/src/TimBuchalka/section8/MobilePhoneExample/Contacts.java" />
+        <option value="$PROJECT_DIR$/src/TimBuchalka/section8/MobilePhoneExample/MobilePhone.java" />
+        <option value="$PROJECT_DIR$/src/TimBuchalka/section8/autoboxingExample/Bank.java" />
+        <option value="$PROJECT_DIR$/src/TimBuchalka/section8/autoboxingExample/Customer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="513" />
+    <option name="y" value="7" />
+    <option name="width" value="1414" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaJuniorTrening-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaJuniorTrening-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaJuniorTrening-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaJuniorTrening-master" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaJuniorTrening-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaJuniorTrening-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaJuniorTrening-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaJuniorTrening-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Object" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaJuniorTrening-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaJuniorTrening-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Tabs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaJuniorTrening-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaJuniorTrening-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="TimBuchalka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaJuniorTrening-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaJuniorTrening-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="TimBuchalka" type="462c0819:PsiDirectoryNode" />
+              <item name="BurgerShop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaJuniorTrening-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaJuniorTrening-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="TimBuchalka" type="462c0819:PsiDirectoryNode" />
+              <item name="section8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaJuniorTrening-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaJuniorTrening-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="TimBuchalka" type="462c0819:PsiDirectoryNode" />
+              <item name="section8" type="462c0819:PsiDirectoryNode" />
+              <item name="autoboxingExample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaJuniorTrening-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaJuniorTrening-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="TimBuchalka" type="462c0819:PsiDirectoryNode" />
+              <item name="section8" type="462c0819:PsiDirectoryNode" />
+              <item name="MobilePhoneExample" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559678775435" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Wlasne.section7.polymorphism" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MobilePhone">
+    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TimBuchalka.section7.polymorphism.Car" />
+      <module name="CwiczeniaInternet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TimBuchalka.section7.polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Wlasne.section8.ArrayListExample.Main" />
+      <module name="CwiczeniaInternet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Wlasne.section8.ArrayListExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TimBuchalka.section6.poolArea.Main" />
+      <module name="CwiczeniaInternet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TimBuchalka.section6.poolArea.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Wlasne.section7.EncapsulationExample.Main" />
+      <module name="CwiczeniaInternet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Wlasne.section7.EncapsulationExample.encapsulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MobilePhone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TimBuchalka.section8.MobilePhoneExample.MobilePhone" />
+      <module name="CwiczeniaInternet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TimBuchalka.section8.MobilePhoneExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MobilePhone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Wlasne.section8.ArrayListExample.MobilePhone" />
+      <module name="CwiczeniaInternet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Wlasne.section8.ArrayListExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Car" />
+      <item itemvalue="Application.MobilePhone" />
+      <item itemvalue="Application.Main (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MobilePhone" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Car" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a39cd5a3-0550-45f5-97a3-687ca97f9554" name="Default Changelist" comment="" />
+      <created>1547839065211</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547839065211</updated>
+      <workItem from="1554538224596" duration="856000" />
+      <workItem from="1554926812316" duration="646000" />
+      <workItem from="1555140540695" duration="197000" />
+      <workItem from="1555146346366" duration="978000" />
+      <workItem from="1555152272299" duration="5543000" />
+      <workItem from="1555162226440" duration="9513000" />
+      <workItem from="1555257082759" duration="9193000" />
+      <workItem from="1555351695109" duration="6900000" />
+      <workItem from="1557562376305" duration="1081000" />
+      <workItem from="1558023333537" duration="2007000" />
+      <workItem from="1558768447550" duration="1224000" />
+      <workItem from="1559159471901" duration="4964000" />
+      <workItem from="1559374934556" duration="257000" />
+      <workItem from="1559678801791" duration="2845000" />
+      <workItem from="1560602934798" duration="1885000" />
+    </task>
+    <task id="LOCAL-00001" summary="phone added">
+      <created>1560603235695</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1560603235695</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="48089000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19349681" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39219934" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33044422" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3261105" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Coverage" order="7" side_tool="true" weight="0.32985073" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.23781389" />
+      <window_info anchor="right" id="Maven" order="9" />
+      <window_info anchor="right" id="Database" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/src" />
+    </ignored-roots>
+    <MESSAGE value="phone added" />
+    <option name="LAST_COMMIT_MESSAGE" value="phone added" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section6/carpetStore/Calculator.java" />
+    <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section6/carpetStore/Floor.java" />
+    <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section6/carpetStore/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section6/inheritanceExample/Vehicle.java" />
+    <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section6/cylinder/Cylinder.java" />
+    <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section6/cylinder/Circle.java" />
+    <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section6/cylinder/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Wlasne/section1_2_3/metody.java" />
+    <entry file="file://$PROJECT_DIR$/src/Wlasne/section1_2_3/UserInput.java" />
+    <entry file="file://$PROJECT_DIR$/src/Wlasne/section7/aa.java" />
+    <entry file="file://$PROJECT_DIR$/src/Wlasne/section7/Encapsulation/AA/Printer.java" />
+    <entry file="file://$PROJECT_DIR$/src/Wlasne/section7/Printer.java" />
+    <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section5/FlourPacker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section5/isPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section5/MinAndMax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Object/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Object/LiczbaCalkowita.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Object/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tabs/Tabs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Wlasne/section7/EncapsulationExample/Printerr.java" />
+    <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section7/encapsulation/Printer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section7/encapsulation/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CwiczeniaInternet.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Wlasne/section7/polymorphism/Ford.java" />
+    <entry file="file://$PROJECT_DIR$/src/Wlasne/BurgerShop/MeatRepository.java" />
+    <entry file="file://$PROJECT_DIR$/src/Wlasne/BurgerShop/BreadRepository.java" />
+    <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section7/polymorphism/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section6/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="32" column="43" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section6/SimpleCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section6/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section6/Wall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Wlasne/section8/MobilePhoneExample/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section6/inheritanceExample/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimBuchalka/BurgerShop/Hamburger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section6/poolArea/Cuboid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section6/poolArea/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section6/poolArea/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section8/SortList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section6/ComplexNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section1_2_3/EvenNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section1_2_3/BarkingDog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section8/autoboxingExample/Bank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section1_2_3/EqualSumChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section1_2_3/LeapYearCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section1_2_3/MegaBytesConvertor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section1_2_3/PrimeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section1_2_3/SwitchDay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section1_2_3/TheLargerPrime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section8/autoboxingExample/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section8/MobilePhoneExample/Contacts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimBuchalka/section8/MobilePhoneExample/MobilePhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="60" column="65" selection-start-line="60" selection-start-column="65" selection-end-line="60" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>
