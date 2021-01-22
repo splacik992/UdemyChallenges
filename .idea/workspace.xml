@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a39cd5a3-0550-45f5-97a3-687ca97f9554" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TimBuchalka/section8/bank/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TimBuchalka/section8/bank/Branch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TimBuchalka/section8/bank/Customer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CwiczeniaInternet/META-INF/CwiczeniaInternet.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CwiczeniaInternet/TimBuchalka/section8/MobilePhoneExample/Contacts.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CwiczeniaInternet/TimBuchalka/section8/MobilePhoneExample/Contacts.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CwiczeniaInternet/TimBuchalka/section8/MobilePhoneExample/MobilePhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CwiczeniaInternet/TimBuchalka/section8/MobilePhoneExample/MobilePhone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CwiczeniaInternet/Wlasne/section8/MobilePhoneExample/Contacts.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CwiczeniaInternet/Wlasne/section8/MobilePhoneExample/MobilePhone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TimBuchalka/section8/MobilePhoneExample/Contacts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TimBuchalka/section8/mobilePhoneExample/Contacts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TimBuchalka/section8/MobilePhoneExample/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TimBuchalka/section8/mobilePhoneExample/MobilePhone.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +65,9 @@
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Wlasne.section7.polymorphism" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="TimBuchalka.section8.bank" />
     </key>
   </component>
   <component name="RunManager" selected="Application.MobilePhone">
@@ -208,7 +205,7 @@
       <workItem from="1560602934798" duration="1885000" />
       <workItem from="1611320603316" duration="3787000" />
       <workItem from="1611326963311" duration="370000" />
-      <workItem from="1611329345426" duration="1507000" />
+      <workItem from="1611329345426" duration="5149000" />
     </task>
     <task id="LOCAL-00001" summary="phone added">
       <created>1560603235695</created>
@@ -232,22 +229,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="phone added" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1848" height="324" key="GridCell.Tab.0.bottom" timestamp="1611336727809">
+    <state x="718" y="171" key="#com.intellij.ide.util.MemberChooser" timestamp="1611337808090">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1848" height="324" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1611336727809" />
-    <state width="1848" height="324" key="GridCell.Tab.0.center" timestamp="1611336727808">
+    <state x="718" y="171" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1611337808090" />
+    <state width="1848" height="324" key="GridCell.Tab.0.bottom" timestamp="1611336910087">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1848" height="324" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1611336727808" />
-    <state width="1848" height="324" key="GridCell.Tab.0.left" timestamp="1611336727808">
+    <state width="1848" height="324" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1611336910087" />
+    <state width="1848" height="324" key="GridCell.Tab.0.center" timestamp="1611336910087">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1848" height="324" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1611336727808" />
-    <state width="1848" height="324" key="GridCell.Tab.0.right" timestamp="1611336727808">
+    <state width="1848" height="324" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1611336910087" />
+    <state width="1848" height="324" key="GridCell.Tab.0.left" timestamp="1611336910087">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1848" height="324" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1611336727808" />
+    <state width="1848" height="324" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1611336910087" />
+    <state width="1848" height="324" key="GridCell.Tab.0.right" timestamp="1611336910087">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1848" height="324" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1611336910087" />
+    <state x="539" y="15" width="840" height="1034" key="search.everywhere.popup" timestamp="1611337419388">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="539" y="15" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1611337419388" />
   </component>
   <component name="mavenExecuteGoalHistory">
     <option value="" />
