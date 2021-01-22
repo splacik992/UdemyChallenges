@@ -1,4 +1,4 @@
-package TimBuchalka.section8.MobilePhoneExample;
+package TimBuchalka.section8.mobilePhoneExample;
 
 import java.util.Scanner;
 

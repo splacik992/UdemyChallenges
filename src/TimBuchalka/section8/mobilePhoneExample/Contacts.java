@@ -1,4 +1,4 @@
-package TimBuchalka.section8.MobilePhoneExample;
+package TimBuchalka.section8.mobilePhoneExample;
 
 import java.util.ArrayList;
 
@@ -38,8 +38,9 @@ public class Contacts {
     public void showAllContacts(){
         for(int i = 0; i < names.size();i++){
             System.out.println(names.get(i));
-        } for (int j = 0; j < numbers.size(); j++){
-            System.out.println(numbers.get(j));
+            for (int j = 0; j < numbers.size(); j++){
+                System.out.println(numbers.get(j));
+            }
         }
     }
 
